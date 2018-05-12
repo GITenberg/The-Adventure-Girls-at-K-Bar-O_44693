@@ -1,0 +1,27 @@
+_repo: The-Adventure-Girls-at-K-Bar-O_44693
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44693-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Blank, Clair
+    gutenberg_agent_id: '42876'
+    url: http://www.gutenberg.org/2009/agents/42876
+description: ''
+gutenberg_issued: '2014-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44693'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Ranch life -- Juvenile fiction'
+- !lcsh 'Ranches -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Women college students -- Juvenile fiction'
+title: The Adventure Girls at K Bar O
+url: http://www.gutenberg.org/ebooks/44693
